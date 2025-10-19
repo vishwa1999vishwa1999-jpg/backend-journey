@@ -24,3 +24,32 @@
 - Learn loops (for and while)
 - Build streak counter program
 
+# Day 2: 2025-10-19
+
+## What I Learned
+- for loops with range()
+- while loops
+- Combining loops + if statements
+- Python indentation rules (4 spaces = 1 level)
+- Debugging IndentationError and SyntaxError
+
+## Code I Wrote
+- File: counter.py (10-day learning tracker + weekly hours)
+- File: milestone_tracker.py (30-day streak with milestones)
+
+## Struggles
+- IndentationError appeared multiple times
+- Confused = (assignment) with == (comparison)
+- Forgot colons after if statements
+- Understanding when to indent and how much
+
+## Breakthrough Moments
+- Realized spacing IS part of Python code
+- Successfully debugged 4 different errors on my own
+- Combined loops + conditionals for first time
+
+## Tomorrow's Focus
+- Learn about lists and data structures
+- Build a task manager that stores multiple items
+  
+
